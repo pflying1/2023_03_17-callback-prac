@@ -32,4 +32,4 @@ new Promise((resolve, reject) => {
       resolve();
     }, 100);
   });
-})
+}) 
